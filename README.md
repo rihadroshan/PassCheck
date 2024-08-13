@@ -38,7 +38,7 @@
    ./PassCheck
    ```
 
-   Follow the prompts to enter a password and see its strength assessment.
+   Follow the prompts to enter a password and assess its strength.
 
 ## Example
 
