@@ -1,5 +1,3 @@
-**PassCheck** is a C program that evaluates the strength of passwords based on various criteria. It assesses whether a password is weak, poor, strong or excellent depending on its length and the diversity of characters it includes.
-
 ## Features
 
 - Checks if the password meets the minimum and maximum length requirements
