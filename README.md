@@ -15,7 +15,7 @@
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd PRODIGY_CS_03
+   cd PassCheck
    ```
 
 3. **Compile the Program**
