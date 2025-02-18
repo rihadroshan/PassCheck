@@ -1,7 +1,5 @@
 # Passcheck - Password Strength Evaluator  
 
-## Overview  
-
 Passcheck designed to assess the strength of passwords based on various security criteria. It ensures that passwords meet length requirements and contain a mix of uppercase letters, lowercase letters, numbers, and special characters.  
 
 ## Features  
