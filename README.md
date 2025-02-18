@@ -1,37 +1,49 @@
-## Features
+# Passcheck - Password Strength Evaluator  
 
-- Checks if the password meets the minimum and maximum length requirements
-- Identifies if the password contains uppercase letters, lowercase letters, numbers, and special characters
-- Evaluates and categorizes the password strength as weak, poor, strong, or excellent
+## Overview  
 
-## How to Use
+Passcheck designed to assess the strength of passwords based on various security criteria. It ensures that passwords meet length requirements and contain a mix of uppercase letters, lowercase letters, numbers, and special characters.  
 
-1. **Clone the Repository**
+## Features  
 
-   ```bash
-   git clone https://github.com/rihadroshan/passcheck.git
-   cd PassCheck
-   ```
+- Validates password length against defined minimum and maximum requirements  
+- Checks for the presence of:  
+  - Uppercase letters  
+  - Lowercase letters  
+  - Numbers  
+  - Special characters  
+- Evaluates and categorizes password strength into four levels: **Weak, Poor, Strong, or Excellent**  
 
-3. **Compile the Program**
+## Installation and Usage  
 
-   Use a C compiler like `gcc` to compile the program:
+### 1. Clone the Repository  
 
-   ```bash
-   gcc -o passcheck passcheck.c
-   ```
+To get started, clone the PassCheck repository and navigate into the project directory:  
 
-4. **Run the Program**
+```bash
+git clone https://github.com/rihadroshan/passcheck.git
+cd passcheck
+```
 
-   Execute the compiled program:
+### 2. Compile the Program  
 
-   ```bash
-   ./PassCheck
-   ```
+Compile the C program using `gcc` or any compatible C compiler:  
 
-   Follow the prompts to enter a password and assess its strength.
+```bash
+gcc -o passcheck passcheck.c
+```
 
-## Example
+### 3. Run the Program  
+
+Execute the compiled binary:  
+
+```bash
+./passcheck
+```
+
+Follow the on-screen instructions to enter a password and receive an evaluation of its strength.  
+
+## Example Usage  
 
 ```
 Enter your password: W@li2l8o$2*#
