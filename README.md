@@ -18,7 +18,7 @@
    Use a C compiler like `gcc` to compile the program:
 
    ```bash
-   gcc -o PassCheck PassCheck.c
+   gcc -o passcheck passcheck.c
    ```
 
 4. **Run the Program**
