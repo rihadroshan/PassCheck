@@ -9,12 +9,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/rihadroshan/PassCheck.git
-   ```
-
-2. **Navigate to the Project Directory**
-
-   ```bash
+   git clone https://github.com/rihadroshan/passcheck.git
    cd PassCheck
    ```
 
